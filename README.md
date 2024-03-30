@@ -32,9 +32,6 @@ Check out the snapshots provided in the repository to get a glimpse of the dashb
 
 Contributions, suggestions, and feedback are welcome. Feel free to fork this repository, make changes, and submit pull requests to enhance the analysis further.
 
-**License:**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **Acknowledgments:**
 
