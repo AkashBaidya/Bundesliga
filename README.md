@@ -47,4 +47,4 @@ Akash Chandra Baidya
 
 **Contact:**
 
-For any inquiries or collaborations, please reach out via email: [Your Email Address]
+For any inquiries or collaborations, please reach out via email: akashbaidya2@gmail.com
