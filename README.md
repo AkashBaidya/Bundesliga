@@ -27,6 +27,10 @@ The analysis is structured into four main sections:
 **Snapshots:**
 
 Check out the snapshots provided in the repository to get a glimpse of the dashboard and its various visualizations.
+![screenshot1](1.png)
+![screenshot2](2.png)
+![screenshot3](3.png)
+![screenshot4](4.png)
 
 **Contributions:**
 
